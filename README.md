@@ -1,37 +1,43 @@
-# Hi there, I'm Kamran 👋
-
-💻 Frontend Developer in progress | JavaScript • React • Redux  
-🌙 Learning and coding after night shifts  
-🚀 Building step by step, moving towards my dream  
+<!-- Приветствие с анимированным текстом -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">kamran-web-dev</span></h1>
+<h3 align="center">🚀 Aspiring Frontend Developer | JavaScript • React • Redux</h3>
 
 ---
 
-## ✨ Quote
-> *"The best way to predict the future is to create it."*
+<!-- Анимированная цитата -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&lines=The+best+way+to+predict+the+future;is+to+create+it+💡" alt="quote"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,git,github" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamran-web-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-web-dev&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kamran-web-dev&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamran-web-dev&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-web-dev&layout=compact&theme=tokyonight" alt="langs"/>
+  <img src="https://streak-stats.demolab.com?user=kamran-web-dev&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
 
 ---
 
-## 📫 Connect with me
-- 🌍 [Telegram](https://t.me/your_username)  
-- ✉️ your_email@example.com
+## 🌍 Connect with me
+<p align="center">
+  <a href="https://t.me/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun fact
+🌙 I code after night shifts and turn coffee ☕ into code 💻
