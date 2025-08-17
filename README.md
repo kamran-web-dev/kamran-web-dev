@@ -6,7 +6,7 @@
 
 <!-- Анимированная цитата -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&lines=The+best+way+to+predict+the+future;is+to+create+it+💡" alt="quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=00BFFF&center=true&vCenter=true&lines=The+best+way+to+predict+the+future;is+to+create+it+💡" alt="quote"/>
 </p>
 
 ---
