@@ -1,6 +1,6 @@
 <!-- Приветствие с анимированным текстом -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">kamran-web-dev</span></h1>
-<h3 align="center">🚀 Aspiring Frontend Developer | JavaScript • React • Redux</h3>
+<h3 align="center">Frontend Developer | JavaScript • React • Redux</h3>
 
 ---
 
